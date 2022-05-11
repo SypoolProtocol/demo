@@ -1,6 +1,16 @@
 {
   "token": [
     {
+      "attributes": [
+        {
+          "trait_type": "Breed",
+          "value": "Maltipoo"
+        },
+        {
+          "trait_type": "Eye color",
+          "value": "Mocha"
+        }
+      ],
       "id": 0,
       "description": "My NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
